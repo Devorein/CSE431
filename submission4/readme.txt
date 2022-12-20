@@ -1,4 +1,5 @@
 Unlisted youtube video:
+https://youtu.be/ZS0nZaMoFi0
 
 Conference submitted paper / paper submission / login Link:
 
@@ -6,7 +7,7 @@ Paper title:
 Evaluating Question generation models using QA systems and Semantic Textual Similarity
 
 Paper presentation (anyone can view without login):
-http://slides.google.com/
+https://docs.google.com/presentation/d/1M1lCr0SveC_yUREyEVNQsZ_exsqTFdgfmbSPGN2JUSA/edit
 
 Paper submission date (to workshop/conference):
 
